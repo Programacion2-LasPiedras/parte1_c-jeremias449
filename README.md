@@ -4,3 +4,4 @@ Escribir tu predicción y fundamento de cada valor en éste
 archivo
 
 Respuesta:
+el valor de x es 11
